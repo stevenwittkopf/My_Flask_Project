@@ -1,1 +1,4 @@
 venv
+.vscode
+pythontestscript.py
+__pycache__

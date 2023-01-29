@@ -1,0 +1,32 @@
+[
+    {
+        "workingTitle": "Laser Beam Rifle",
+        "characterClass": "Scout",
+        "weaponSlot": "Primary",
+        "description": [
+            "An automatic weapon that fires violent split second pulses in the form of hitscan laser beams. In terms of feel ",
+            "this weapon sits somewhere between the GK2 and M1K in terms of damage per shot and rate of fire: it hits ",
+            "moderately hard with a somewhat slow, and methodical rate of fire. This weapon is automatic so holding ",
+            "down the trigger will fire repeatedly. There is a short delay between holding the trigger and the weapon ",
+            "discharging for the first shot. This weapon is capable of electrocuting enemies as a baseline stat, and ",
+            "will deal additional damage to enemies that are on fire. Like the engineer's laser, this weapon fires from ",
+            "a store of energy that depletes during firing, and recharges over time when not firing. Depleting the store ",
+            "simply results in the weapon halting fire. This weapon needs a minimum threshold of energy to be fired. final ",
+            "tier upgrades might do things like making enemies that die from weakpoint hits explode, damaging enemies around ",
+            "themselves, or to have a chance to richochet to nearby targets."
+        ],
+        "canDelete": false   
+    },
+    {
+        "workingTitle": "Dual Plasma Blasters",
+        "characterClass": "Engineer",
+        "weaponSlot": "Primary",
+        "description": [
+            "The engineer dual weilds plasma pistols. While holding the trigger the engineer alterates between weapons fired. ",
+            "Shots from these weapons fire plasma bolts - a fast moving projectile that does both AoE and direct damage. ",
+            "Similar to other plasma weapons this weapon can overheat. An engineer can kill a grunt with 2 weakpoint shots baseline. ",
+            "Plasma bolts can ignite enemies, which makes these guns similar to the stubby but with fire."
+        ],
+        "canDelete": true
+    }
+]
